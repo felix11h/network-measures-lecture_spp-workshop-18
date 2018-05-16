@@ -1,0 +1,2 @@
+
+Jupyter notebook in preparation for workshop on "Understanding the Structure of Brain Networks". This lectures focuses on network measures and uses graph tool and networkx to compute them.
