@@ -1,4 +1,4 @@
-#!/bin/bash
+#pref!/bin/bash
 
 docker run -it -p 127.0.0.1:8889:8888 \
        --user="$(id -u):$(id -g)" \
