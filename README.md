@@ -25,7 +25,9 @@ The Jupyter notebook should be then available at [http://127.0.0.1:8889/notebook
 
 ### Online 
 
-The notebook...
+The notebook can viewed online at [mybinder.org](https://hub.gke.mybinder.org/user/felix11h-networ-spp-workshop-18-9cvat6le/notebooks/network_analysis.ipynb).
+
+_(Note: The notebook is not functional, as the correct dependencies would need to be installed in binder. If someone wants to set this up, I would be happy to provide an updated link here. Thanks!)_ 
 
 ### PDF
 
