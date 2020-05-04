@@ -1,0 +1,6 @@
+echo ""
+echo ""
+echo "Open the notebook in your browser at "
+echo "   http://127.0.0.1:8889/notebooks/network_analysis.ipynb"
+echo ""
+echo ""

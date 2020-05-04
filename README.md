@@ -20,7 +20,7 @@ source open_notebook.sh
 
 This assumes that [Docker](https://www.docker.com/) is installed an available on the machine and downloads the Docker image [felix11h/docker-networkx-jupyter:gt1.3](https://hub.docker.com/layers/felix11h/docker-networkx-jupyter/gt1.3/images/sha256-be26edc1229ec7f030d14ede4792849799cf24337dfc964157e86bc037b6edc4?context=explore) which is used to provide all dependencies. 
 
-The Jupyter notebook should be then available at [https://127.0.0.1:8889](https://127.0.0.1:8889).
+The Jupyter notebook should be then available at [http://127.0.0.1:8889/notebooks/network_analysis.ipynb](http://127.0.0.1:8889/notebooks/network_analysis.ipynb).
 
 
 ### Online 
@@ -34,7 +34,7 @@ An exported PDF document giving a static representation of the notebook is provi
 
 ## Demo
 
-<p align="center" style="margin-top:2em;margin-bottom:2em">
+<p align="center">
   <img src="https://github.com/felix11h/spp-workshop-lecture-network-measures/blob/master/repo/lecture-demo_jupyter-rise.gif?raw=true" alt="Lecture demo gif"/>
 </p>
 
