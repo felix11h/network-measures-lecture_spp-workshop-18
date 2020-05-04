@@ -5,7 +5,7 @@ Lecture on network measures (tools, visualization, density, in- and out-degress,
 
 The lecture is written as an interactive [Jupyter notebook](https://jupyter.org/) with the [RISE](https://rise.readthedocs.io/en/stable/) extension to generate reveal.js slideshows. 
 
-<p align="center">
+<p align="center" style="margin-top:2em;margin-bottom:2em">
   <img src="https://github.com/felix11h/spp-workshop-lecture-network-measures/blob/master/repo/lecture-demo_jupyter-rise.gif?raw=true" alt="Lecture demo gif"/>
 </p>
 
